@@ -1,0 +1,27 @@
+#streamers .row{
+	border:1px solid #5E5E5E;
+	margin: 20px 0;
+	background-color: #96D3FF;
+
+}
+
+#streamers .row img{
+	/*border-radius: 100%;*/
+	border-color: #FFFFFF;
+	width: 100px;	
+	padding-right: 15px;
+}
+
+#streamers h2{
+	margin: 0;
+}
+
+.container .row h3{
+text-align: right;
+}
+
+.btn{
+	margin-top:15px;
+	}
+
+	
